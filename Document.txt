@@ -2,6 +2,9 @@ class Q{
 
 main a(){
 
+void b(){
+
+}
 
 }
 
