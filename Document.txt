@@ -1,8 +1,9 @@
 class Q{
 
-main a(){
 
-void b(){
+public static void main method(String... args){
+
+System.out.println("srinu")
 
 }
 
